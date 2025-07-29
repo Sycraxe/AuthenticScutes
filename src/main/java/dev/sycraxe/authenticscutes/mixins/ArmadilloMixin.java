@@ -1,4 +1,4 @@
-package dev.sycraxe.genuinescutes.mixins;
+package dev.sycraxe.authenticscutes.mixins;
 
 import net.minecraft.world.entity.animal.armadillo.Armadillo;
 import org.spongepowered.asm.mixin.Mixin;
