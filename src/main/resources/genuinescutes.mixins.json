@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.sycraxe.genuinescutes.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ArmadilloMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
